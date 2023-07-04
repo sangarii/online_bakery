@@ -1,0 +1,12 @@
+.Nav{
+     justify-content: center; 
+    text-align: center;
+    background-color: rgb(61, 96, 213);
+     padding: 20px 170px  20px 170px; 
+
+}
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
